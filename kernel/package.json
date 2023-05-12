@@ -1,0 +1,17 @@
+{
+  "name": "string-kernel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Illia Lynnyk",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "csv": "^6.2.8",
+    "range-minimum-query": "^0.0.2",
+    "string-algorithms": "^1.0.31"
+  }
+}
