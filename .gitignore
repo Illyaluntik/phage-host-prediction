@@ -184,3 +184,12 @@ dist/
 *slicer-temp*
 gwt-unitCache
 .sass-cache/
+
+######################
+# Misc             #
+######################
+
+X.txt
+Y.txt
+kernel.txt
+output.txt
