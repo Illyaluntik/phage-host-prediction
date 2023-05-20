@@ -2,7 +2,7 @@ import random
 
 def slice_sequences(data, max_len=5000):
   def getRandomSubstring(s):
-    if (len(s) < max_len):
+    if (len(s) <= max_len):
       return s
 
     max_range = len(s) - max_len
